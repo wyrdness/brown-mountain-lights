@@ -1,0 +1,361 @@
+{
+  "category": "ATMOSPHERIC_PHENOMENON",
+
+  "meta": {
+    "version": "1.0.0",
+    "schema_version": "1.0.0",
+    "last_updated": "2026-01-14",
+    "repository": "https://github.com/wyrdness/brown-mountain-lights",
+    "maintainers": [
+      {
+        "name": "Wyrdness Team",
+        "github": "wyrdness",
+        "role": "maintainer"
+      }
+    ],
+    "license": {
+      "data": "CC0-1.0",
+      "content": "CC-BY-4.0"
+    }
+  },
+
+  "phenomenon": {
+    "id": "brown-mountain-lights",
+    "name": "Brown Mountain Lights",
+    "aliases": [],
+    "category": "ATMOSPHERIC_PHENOMENON",
+    "subcategory": "Ghost Lights",
+    "tags": [
+      "north-carolina",
+      "ghost-lights",
+      "partially-explained",
+      "cherokee",
+      "nocturnal",
+      "historical"
+    ],
+    "status": "partially_explained",
+    "description": {
+      "summary": "Mysterious lights near Brown Mountain, North Carolina, reported for 250+ years. Most consistent US light phenomenon. Some lights explained as refraction, but pre-modern sightings remain unexplained.",
+      "full": "The Brown Mountain Lights are mysterious light phenomena observed near Brown Mountain in the Blue Ridge Mountains of North Carolina. Characterized by pale lights that rise above the mountain with a steady glow in various colors, these lights have been documented since 1771 and appear in Cherokee legends that predate European contact. With over 250 years of documented reports, this is the most historically consistent light phenomenon in the United States. Multiple USGS investigations (1913, 1922) attributed lights to locomotive headlights and car headlights, but the railroad later closed and lights continued. Modern theories include atmospheric refraction, piezoelectric effects from quartz in the mountains, swamp gas, and foxfire. A 2016 study by Appalachian State University was inconclusive. Some modern lights are explained as distant sources refracted through atmospheric layers, but the pre-modern sightings (before automobiles and trains) remain unexplained."
+    },
+    "etymology": {
+      "origin": "Named after Brown Mountain in the Blue Ridge Mountains of North Carolina",
+      "meaning": "Lights near/above Brown Mountain",
+      "first_use": "1771 (written records)"
+    }
+  },
+
+  "classification": {
+    "taxonomy": {
+      "category": "ATMOSPHERIC_PHENOMENON",
+      "type": "Ghost Lights",
+      "subtype": "Partially Explained",
+      "variant": "Historical Phenomenon"
+    },
+    "related_phenomena": [
+      {
+        "id": "hessdalen-lights",
+        "name": "Hessdalen Lights",
+        "relationship": "similar",
+        "description": "Norwegian scientifically monitored lights"
+      },
+      {
+        "id": "marfa-lights",
+        "name": "Marfa Lights",
+        "relationship": "similar",
+        "description": "Texas ghost lights, mostly explained"
+      },
+      {
+        "id": "min-min-lights",
+        "name": "Min Min Lights",
+        "relationship": "similar",
+        "description": "Australian ghost lights"
+      }
+    ]
+  },
+
+  "characteristics": {
+    "physical": {
+      "appearance": [
+        {
+          "feature": "Colors",
+          "description": "Pale lights, steady glow, various colors reported",
+          "frequency": "always"
+        },
+        {
+          "feature": "Behavior",
+          "description": "Rise above mountain, hover, steady glow",
+          "frequency": "common"
+        },
+        {
+          "feature": "Location",
+          "description": "Visible from Wiseman's View and other vantage points",
+          "frequency": "consistent"
+        }
+      ],
+      "morphology": "Pale spherical lights that rise above Brown Mountain, displaying steady luminescence"
+    },
+    "behavior": {
+      "activity_period": "nocturnal",
+      "conditions": "Clear nights preferred for viewing",
+      "patterns": [
+        "Rise above mountain ridge",
+        "Steady glow",
+        "Various colors",
+        "Regular frequency",
+        "250+ years of consistent reports"
+      ]
+    }
+  },
+
+  "distribution": {
+    "range": {
+      "description": "Localized to Brown Mountain area in Blue Ridge Mountains, North Carolina",
+      "continents": ["North America"],
+      "countries": ["United States"],
+      "regions": ["North Carolina, Blue Ridge Mountains"]
+    },
+    "hotspots": [
+      {
+        "name": "Wiseman's View",
+        "location": {
+          "description": "Wiseman's View overlook, Linville Gorge area",
+          "country": "United States",
+          "region": "North Carolina",
+          "locality": "Burke County",
+          "coordinates": {
+            "latitude": 35.9275,
+            "longitude": -81.8931
+          }
+        },
+        "sighting_count": 1000,
+        "peak_period": "1771-present",
+        "notes": "Primary viewing location for phenomenon"
+      }
+    ],
+    "temporal": {
+      "first_recorded": {
+        "date": "1771",
+        "circa": false,
+        "source": "Written documentation, German engineer report"
+      },
+      "indigenous_accounts": {
+        "date": "Pre-colonial",
+        "circa": true,
+        "source": "Cherokee legends"
+      },
+      "peak_activity_periods": [
+        {
+          "period": "1771-present",
+          "description": "Continuous reports for 250+ years"
+        }
+      ],
+      "seasonal_patterns": "Reported year-round, most visible on clear nights"
+    }
+  },
+
+  "history": {
+    "origins": {
+      "cultural_roots": "Cherokee legends predate European contact. Tradition speaks of spirits of maidens searching for fallen warriors.",
+      "earliest_accounts": "1771 written record by German engineer. Cherokee oral traditions are older.",
+      "folklore_connections": "Deeply connected to Cherokee cultural traditions"
+    },
+    "timeline": [
+      {
+        "date": "Pre-colonial",
+        "event": "Cherokee legends",
+        "significance": "Indigenous stories of mysterious lights, spirits of maidens searching for warriors",
+        "source": "Oral tradition"
+      },
+      {
+        "date": "1771",
+        "event": "First written documentation",
+        "significance": "German engineer documents strange lights",
+        "source": "Historical records"
+      },
+      {
+        "date": "1913",
+        "event": "USGS investigation #1",
+        "significance": "Attributed lights to locomotive headlights",
+        "source": "US Geological Survey"
+      },
+      {
+        "date": "1916",
+        "event": "Railroad closes",
+        "significance": "Lights continue despite closure of attributed source",
+        "source": "Historical records"
+      },
+      {
+        "date": "1922",
+        "event": "USGS investigation #2",
+        "significance": "Attributed to brush fires, car headlights, stationary lights",
+        "source": "US Geological Survey"
+      },
+      {
+        "date": "2016",
+        "event": "Appalachian State University study",
+        "significance": "Inconclusive results, some lights remain unexplained",
+        "source": "Appalachian State University"
+      }
+    ],
+    "modern_era": "Remains one of the most enduring light phenomena in United States. Tourist attraction with viewing areas. Continues to be studied."
+  },
+
+  "investigations": {
+    "studies": [
+      {
+        "year": "1913",
+        "organization": "US Geological Survey",
+        "methodology": "Field observation",
+        "findings": "Attributed lights to locomotive headlights from nearby railroad",
+        "conclusion": "Appeared to explain phenomenon, but railroad later closed and lights continued"
+      },
+      {
+        "year": "1922",
+        "organization": "US Geological Survey",
+        "methodology": "Follow-up investigation",
+        "findings": "Attributed to brush fires, automobile headlights, and stationary lights",
+        "conclusion": "Partial explanation for some modern sightings"
+      },
+      {
+        "year": "2016",
+        "organization": "Appalachian State University",
+        "methodology": "Scientific observation and analysis",
+        "findings": "Inconclusive - some lights may be distant sources refracted, but not all explained",
+        "conclusion": "Phenomenon partially explained, historical sightings remain unexplained"
+      }
+    ],
+    "unexplained_aspects": [
+      "Pre-modern sightings (1771 and earlier, before trains and cars)",
+      "Cherokee legends predating European contact",
+      "Lights continuing after supposed sources (railroad) were removed",
+      "Some modern sightings inconsistent with refraction explanation"
+    ]
+  },
+
+  "evidence": {
+    "photographic": [
+      {
+        "type": "photographs",
+        "description": "Numerous photographs taken from Wiseman's View and other locations",
+        "status": "documented",
+        "analysis": "Shows lights above mountain ridge"
+      }
+    ],
+    "video": [
+      {
+        "type": "video recordings",
+        "description": "Videos of lights appearing and moving",
+        "status": "documented",
+        "analysis": "Consistent with eyewitness descriptions"
+      }
+    ],
+    "historical": [
+      {
+        "type": "written records",
+        "description": "250+ years of documented reports",
+        "status": "confirmed",
+        "analysis": "Most historically consistent US light phenomenon"
+      }
+    ]
+  },
+
+  "theories": {
+    "scientific": [
+      {
+        "name": "Atmospheric Refraction",
+        "description": "Distant light sources (towns, vehicles) refracted through atmospheric layers",
+        "proponents": ["Modern researchers"],
+        "evidence_cited": ["Some modern sightings correlate with distant sources"],
+        "status": "partial_explanation"
+      },
+      {
+        "name": "Piezoelectric Effects",
+        "description": "Stress on quartz in mountains creates electrical discharge",
+        "proponents": ["Geologists"],
+        "evidence_cited": ["Quartz-rich geology of Blue Ridge Mountains"],
+        "status": "speculative"
+      },
+      {
+        "name": "Swamp Gas",
+        "description": "Phosphorescent gases from decomposing organic matter",
+        "proponents": ["Early researchers"],
+        "evidence_cited": ["Marshy areas in region"],
+        "status": "unlikely"
+      },
+      {
+        "name": "Foxfire",
+        "description": "Bioluminescent fungi creating glow",
+        "proponents": ["Some researchers"],
+        "evidence_cited": ["Presence of bioluminescent fungi in forests"],
+        "status": "unlikely_for_observed_behavior"
+      }
+    ],
+    "folklore": [
+      {
+        "name": "Cherokee Spirits",
+        "description": "Spirits of Cherokee maidens searching for fallen warriors",
+        "proponents": ["Cherokee tradition"],
+        "evidence_cited": ["Pre-colonial oral traditions"],
+        "status": "cultural_tradition"
+      }
+    ]
+  },
+
+  "cultural": {
+    "folklore": {
+      "traditions": ["Cherokee legends of searching spirits"],
+      "stories": ["Maidens searching for warriors who died in battle"],
+      "beliefs": "Sacred to Cherokee people, part of traditional knowledge"
+    },
+    "indigenous": {
+      "cultures": ["Cherokee"],
+      "significance": "Pre-colonial legends, spiritual significance",
+      "sensitivity_note": "⚠️ CULTURAL SENSITIVITY: Cherokee traditional stories should be treated with respect. These are sacred cultural traditions, not mere folklore.",
+      "respect_guidelines": "Consult Cherokee Nation regarding traditional accounts. Do not appropriate or misrepresent indigenous beliefs."
+    },
+    "popular_culture": {
+      "tourism": [
+        "Wiseman's View viewing area",
+        "Tourist attraction in Blue Ridge Mountains",
+        "Featured in North Carolina tourism"
+      ],
+      "media": [
+        "Featured in paranormal TV shows",
+        "Subject of documentaries",
+        "North Carolina folklore collections"
+      ]
+    }
+  },
+
+  "sources": [
+    {
+      "id": "usgs-1913",
+      "type": "study",
+      "title": "USGS Investigation of Brown Mountain Lights",
+      "organization": "US Geological Survey",
+      "date": "1913"
+    },
+    {
+      "id": "usgs-1922",
+      "type": "study",
+      "title": "USGS Follow-up Investigation",
+      "organization": "US Geological Survey",
+      "date": "1922"
+    },
+    {
+      "id": "appstate-2016",
+      "type": "study",
+      "title": "Modern Analysis of Brown Mountain Lights",
+      "organization": "Appalachian State University",
+      "date": "2016"
+    },
+    {
+      "id": "cherokee-traditions",
+      "type": "oral_tradition",
+      "title": "Cherokee Legends",
+      "description": "Pre-colonial indigenous accounts",
+      "note": "Treat with cultural sensitivity"
+    }
+  ]
+}
